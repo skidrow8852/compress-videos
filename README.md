@@ -27,7 +27,7 @@ sudo apt install ffmpeg
 # Usage
 
 ```js
-const { compressVideo } = require('./videoCompress');
+const { compressVideo } = require('compress-videos');
 
 const videoPath = '/videos/test.mp4'
 const replaceOriginal = false; //- Whether to replace the original video with the compressed one.
