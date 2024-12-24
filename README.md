@@ -1,6 +1,8 @@
 # Video Compressor
 A package for compressing videos that uses `ffmpeg` and the `libx264` compression algorithm. It reduces the size of videos by up to 40% while maintaining lossless quality.
 
+![Designer(1)](https://github.com/user-attachments/assets/4d2e3cfd-e31e-4008-a4ef-d3bccf94b992)
+
 ## Installation
 1. Install the ```compress-videos``` package
 
