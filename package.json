@@ -10,6 +10,10 @@
     "test": "jest",
     "start": "node src/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/skidrow8852/compress-videos"
+  },
   "keywords": [
     "video-compression",
     "video compression",
@@ -22,6 +26,10 @@
   ],
   "author": "Youssef Rais",
   "license": "MIT",
+   "bugs": {
+    "url": "https://github.com/skidrow8852/compress-videos/issues"
+  },
+  "homepage": "https://github.com/skidrow8852/compress-videos",
   "dependencies": {
     "fluent-ffmpeg": "^2.1.3"
   },
