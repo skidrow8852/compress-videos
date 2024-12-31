@@ -1,6 +1,6 @@
 {
   "name": "compress-videos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package for compressing video files",
   "main": "src/index.js",
   "directories": {
